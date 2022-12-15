@@ -1,7 +1,7 @@
 ---
 name: Vacuum Agent
 tools: [Python, Agent, Thread, Event ,Tkinter, BDI, Vacuum-Cleaner, Simpy, Agent-Based-Simulation, BDI-Model, Vacuum-Robot]
-image: ../assets/img/portfolio/vacuum_agent/preview.png
+image: ../assets/img/portfolio/vacuum_agent/preview.PNG
 description: Implementation of A* and BFS algorithms with custom heuristics in the scope of a vacuum agent with graphical interface
 ---
 ## About 
