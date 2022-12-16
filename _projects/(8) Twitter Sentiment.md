@@ -1,7 +1,7 @@
 ---
 name: Large-scale Twitter Sentiment Analysis
 tools: [Python, Spark, PySpark, Classification, Cluster, Google-Cloud, DataProc, Logistic-Regression, Naive-Bayes, Linear-SVM]
-image: ../assets/img/portfolio/twitter_sentiment/graphe.PNG
+image: ../assets/img/portfolio/twitter_sentiment/graphe.png
 description: Large-scale sentiment analysis on Twitter with Pyspark
 ---
 # Large-scale Twitter Sentiment Analysis
@@ -73,11 +73,11 @@ In more detail, you will find below two visualizations of the results of the log
 
 First, we have displayed the ROC curves for each scenario with the logistic regression model. You can find on the abscissa the false positive rate and on the ordinate the true positive rate. The models shown in the legend are in the same order as in the table. We can notice that it is not the model with the highest precision that obtains the highest AUC value.
 
-{% include elements/figure.html image="../assets/img/portfolio/twitter_sentiment/graphe.PNG" caption="ROC Curves" %}
+{% include elements/figure.html image="../assets/img/portfolio/twitter_sentiment/graphe.png" caption="ROC Curves" %}
 
 In more detail, if we focus on the logistic regression model in the last scenario, we can visualize its confusion matrix.
 
-{% include elements/figure.html image="../assets/img/portfolio/twitter_sentiment/confusion.PNG" caption="Confusion Matrix" %}
+{% include elements/figure.html image="../assets/img/portfolio/twitter_sentiment/confusion.png" caption="Confusion Matrix" %}
 
 From this confusion matrix, we can see that this model is rather optimistic about the emotion of a tweet. Indeed, it labeled 36,862 tweets as positive when they were negative against only 25,837 positive tweets predicted as negative on the other side of the matrix.
 
@@ -107,7 +107,7 @@ Concretely, this platform will allow us to test large datasets without monopoliz
 We defined a scaling factor of 1 per 233 MB for the size of the dataset and 1 per 54 seconds for the execution time. We then duplicated the dataset until we reached a scaling factor of 35, i.e. 8.2GB. You will find below the table summarizing the values as well as a graph showing the success of the scaling.
 
 {% include elements/figure.html image="../assets/img/portfolio/twitter_sentiment/scaling_table.PNG" %}
-{% include elements/figure.html image="../assets/img/portfolio/twitter_sentiment/chart.PNG" caption="Scaling of the classification" %}
+{% include elements/figure.html image="../assets/img/portfolio/twitter_sentiment/chart.png" caption="Scaling of the classification" %}
 
 
 ## Used Software and Libraries
