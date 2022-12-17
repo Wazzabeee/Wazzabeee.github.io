@@ -5,8 +5,8 @@ description         : >-
                       <br>I am currently in Canada until June 2023 to complete my double degree.<br>
                       If you are interested in working with me or anything similar, then feel free to get in touch with me via any social network or e-mail.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : YoussefRaafatNasry/portfolYOU
+#repository          : Wazzabeee/Wazzabeee.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+#remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -21,6 +21,7 @@ nav_exclude:                                            # The following paths ar
   - pages/404.html
   - pages/index.md
   - documentation/partials/**                           # For Documentation Only
+  - documentation/*
 
 
 ### Author Info ###
