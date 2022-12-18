@@ -1,11 +1,14 @@
 - name: HTML5/CSS3
   percentage: 90
+  desc: test
   color: danger
 
 - name: Go
   percentage: 80
+  desc: oui
   color:
 
 - name: Python
   percentage: 70
+  desc: hello
   color: secondary
