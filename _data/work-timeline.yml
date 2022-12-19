@@ -13,7 +13,7 @@
     - <b>Data Collection</b> -  Built a 3000 movie/script dataset by scraping online from different sources for <a href="https://scholar.google.com/citations?user=9956PLUAAAAJ&hl=en" target="_blank">Elham Motamedi</a>'s research project on the <em>Detection of Hedonic and Eudaimonic Movies Characteristics from Scripts</em>.
     - <b>Data Scraping</b> - Developed a GUI/Cron tool to automatize the collection of tweets from Twitter under <a href="https://scholar.google.com/citations?user=JQ2puysAAAAJ&hl=en" target="_blank">Marko Tkalčič</a> supervision.
     - <b>Plagiarism Detection</b> - Developed a Python tool that detects plagiarism between several files and presents its results in a table. It shows side-by-side comparisons of texts where similar sentences between documents are highlighted.
-    - <b>Conference</b> - Attended <a href="https://hci.si/hci-si-2021/" target="_blank">HCI SI 2021</a> conference (Psychophysiology, User Gullibility, Behavioral Authentication, Music Retrieval and Recommendation...)
+    - <b>Conference</b> - Attended <a href="https://hci.si/hci-si-2021/" target="_blank">HCI SI 2021</a> conference (Psychophysiology, User Gullibility, Behavioral Authentification, Music Retrieval and Recommendation...)
   tools: [Python, Research, OCR, NLP, Selenium, Tkinter]
 
 - entity: UTBM
