@@ -1,35 +1,51 @@
-- degree: Master's Degree in Computer Science
-  study: Data Science & Artificial Intelligence
-  school: University of Québec at Chicoutimi (UQAC)
+- entity: UQAC
+  link: https://www.uqac.ca/
   location: Chicoutimi, Canada
+  role: Computer Science and Engineering Degree
   from: September 2022
   to: February 2024
-  description: Dual degree in the context of an agreement established with the UTBM.<br> Advanced Data Structures and Algorithms () - Artificial Intelligence () - Business Intelligence Principles and Methods () - Machine Learning for Big Data ()
+  description:
+    - Dual degree in the context of an agreement established with the UTBM.
+    - Graduted with a GPA of 4.49/5.00.
+  courses:
+    - "Advanced Data Structures and Algorithms ()"
+    - "Business Intelligence Principles and Methods ()"
+    - "Machine Learning for Big Data ()"
+    - "Artificial Intelligence ()"
+  tools: [Python, C/C++]
 
-- degree: Computer Science Engineer
-  study: Data Science & Artificial Intelligence
-  school: University of Technology of Belfort-Montbéliard (UTBM)
+- entity: UTBM
+  link: https://www.utbm.fr/
   location: Belfort, France
+  role: Computer Science and Engineering Degree
   from: September 2018
   to: February 2024
-  description: Data Science (A) - Business Intelligence Big Data (A) - Database optimization (A) - Business English (A) - Human Computer Interaction (B) - Optimization and operational research (B) - Parallel Computing and Multicore Architecture (B)
+  description:
+    - Specialization in IA and Data Sciences
+  courses:
+    - "Data Science (A)"
+    - "Business Intelligence Big Data (A)"
+    - "Database optimization (A)"
+    - "Business English (A)"
+    - "Human Computer Interaction (B)"
+    - "Optimization and Operational Research (B)"
+    - "Parallel Computing and Multicore Architecture (B)" 
+  tools: [Python, oui, oui]
 
-- degree: Semester Abroad
-  study: Computer Science & Mathematics
-  school: The Faculty of Mathematics, Natural Sciences and Information Technologies (FAMNIT)
+- entity: FAMNIT
+  link: https://www.famnit.upr.si/en
   location: Koper, Slovenia
+  role: Semester Abroad
   from: February 2020
   to: July 2020
-  description: Study term abroad (6 months), mathematics and computer science
+  description:
+    - Study term abroad (6 months), mathematics and computer science
+  tools: [html, css]
 
-- degree: Highschool student
-  study: General
-  school: Bernard Palissy High School
+- entity: Bernard Palissy
   location: Gien, France
+  role: "Highschool Student"
   from: September 2015
   to: June 2018
-  description: French High School National Exam obtained with the European Mention certifying a significant investment in my subjects in English (mathematics in English as well as an extra hour of English in euro group)
-
-
-
-
+  description:
+    - French High School National Exam obtained with the European Mention certifying a significant investment in my subjects in English (mathematics in English as well as an extra hour of English in euro group)

@@ -23,7 +23,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 # **Education**
 <div class="row">
-{% include about/timeline_bis.html source=site.data.work-timeline %}
+{% include about/timeline.html source=site.data.education-timeline %}
 </div>
 
 

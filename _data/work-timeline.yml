@@ -1,20 +1,35 @@
-- title: 🚀 Research Assistant
-  company: HICUP Laboratory
+- entity: HICUP Laboratory
+  link : https://hicup.famnit.upr.si/
   location: Koper, Slovenia
+  country: Slovenia
+  role: 🚀 Research Assistant
   from: September 2021
   to: February 2022
-  description: Assisted researchers and PhD students in their Human-Computer Interaction projects. <br><br>• Used Optical Character Recognition (OCR) and Natural Language Processing (NLP) to preprocess thousands of text files for machine learning algorithms.<br>• Built a 3000 movie/script dataset by scraping online from different sources.<br>• Developed a GUI/Cron tool to automatize the collection of tweets from Twitter under Marko Tkalčič supervision.<a href="https://github.com/Wazzabeee/scraping_tool" target="_blank">(Code)</a> <br>• Developed a Python tool that detects plagiarism between several files and presents its results in a table. It shows side-by-side comparisons of texts where similar sentences between documents are highlighted.<br><br>• Attended HCI SI 2021 conference (Psychophysiology, User Gullibility, Behavioral Authentication, Music Retrieval and Recommendation...)
+  description: Assisted researchers and PhD students in their Human-Computer Interaction projects. 
+  courses:
+    - "Used Optical Character Recognition (OCR) and Natural Language Processing (NLP) to preprocess thousands of text files for machine learning algorithms."
+    - "Built a 3000 movie/script dataset by scraping online from different sources."
+    - "Developed a GUI/Cron tool to automatize the collection of tweets from Twitter under Marko Tkalčič supervision."
+    - "Developed a Python tool that detects plagiarism between several files and presents its results in a table. It shows side-by-side comparisons of texts where similar sentences between documents are highlighted."
+    - "Attended HCI SI 2021 conference (Psychophysiology, User Gullibility, Behavioral Authentication, Music Retrieval and Recommendation...)"
+  tools: [Python, test]
 
-- title: Student Monitor
-  company: University of Technology of Belfort-Montbéliard
+- entity: UTBM
+  link: https://www.utbm.fr/
   location: Belfort, France
+  country: France
+  role: Student Monitor
   from: October 2020
   to: June 2021
   description: Tidied books, helped students and professionals with documentary research, ensured compliance with library regulations, redesigned of bookshelf signage.
+  tools: [Test]
 
-- title: Laboratory Technician
-  company: SWISS KRONO SAS
+- entity: SWISS KRONO SAS 
+  link: https://www.swisskrono.com/global-en#/
   location: Sully-sur-Loire, France
+  country: France
+  role: Laboratory Technician
   from: January 2019
   to: February 2019
   description: As part of my engineering traning, I completed a one-month worker internship where I was in charge of the comparison of Volatile Organic Compound analysis methods on particle board between the percolator and the Gas Analysis. The purpose of this comparison was to enter a new standard.
+  tools: [Test, test]
