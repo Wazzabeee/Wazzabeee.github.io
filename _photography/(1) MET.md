@@ -1,7 +1,7 @@
 ---
 name: Metropolitan Museum of Art - New York
 tools: [iPhone 12📱]
-image: /assets/img/photography/met/intro.jpg
+image: /assets/img/photography/met/met.jpg
 description: October 2022
 ---
 
