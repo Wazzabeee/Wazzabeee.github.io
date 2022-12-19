@@ -26,4 +26,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {% include about/timeline.html source=site.data.education-timeline %}
 </div>
 
+<h2 class="mb-3">Certifications</h2>
+{% capture list_items %}
+NVIDIA Accelerating End-to-End Data Science Workflows
+NVIDIA Getting Started with Deep Learning
+NVIDIA Accelerated Computing with CUDA Python 2020
+Stanford University Machine Learning (Coursera)
+Business Language Testing Service (BULATS) C2
+Cisco Certified Network Associate (CCNA)
+{% endcapture %}
+{% include elements/list.html %}
 
+More certifications and Badges can be viewed on my <a href="https://www.linkedin.com/in/clementdelteil/details/certifications/" target="_blank">LinkedIn</a> page.
