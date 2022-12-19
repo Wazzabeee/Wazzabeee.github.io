@@ -1,0 +1,25 @@
+- name: Data Processing
+  percentage: 95
+  desc: Pandas, Numpy, PySpark, NLTK
+  color: primary
+
+- name: Dataviz
+  percentage: 95
+  desc: Tableau, PowerBI, Matplotlib
+  color: danger
+
+- name: Machine Learning
+  percentage: 95
+  desc: scikit-learn, MLlib, Spark Streaming, XGBoost
+  color: success
+
+- name: Cloud
+  percentage: 95
+  desc: Databricks, Google Cloud
+  color: info
+
+- name: Deployment
+  percentage: 95
+  desc: Docker, Apache Kafka
+  color: warning
+
