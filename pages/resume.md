@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resume
-external_url: /ClementDelteilResume.pdf
+permalink: /CV/
 weight: 6
 ---
+<embed src="https://clementdelteil.com/download/ClementDelteilResume.pdf" width="100%" height="800px"/>
