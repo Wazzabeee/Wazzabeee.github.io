@@ -27,12 +27,7 @@
           {%- if item.courses -%}
             <ul>
               {% for course in item.courses %}
-                {% assign split_course = course | split: ": " %}
-                {% if split_course.size == 1 %}
-                  <li>{{ split_course[0] }}</li>
-                {% else %}
-                  <li><b>{{ split_course[0] }}</b> : {{ split_course[1] }}</li>
-                {% endif %}
+                  <li>{{ course }}</li>
               {% endfor %}
             </ul>
           {%- endif -%}
