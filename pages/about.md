@@ -8,7 +8,14 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I am currently studying in Canada :canada:, at <a href="https://www.uqac.ca/" target="_blank">UQAC</a>, as part of a double-diploma agreement with my engineering school in France :fr:, the <a href="https://www.utbm.fr/" target="_blank">UTBM</a>. I'm doing a master's degree in professional computer science where I specialize in Data Science and Artificial Intelligence. 
+
+By the way, as part of these two degrees that I am following, I am looking for a 6 months internship starting in August or September 2023. I don't have any specialization yet, I already worked on NLP, OCR, real-time classification, big data but I'm open to any project that could be a challenge 🦾! You can find my CV in French and in English in the <a href="https://clementdelteil.com/CV/" target="_blank">Resume</a> section of this website.
+
+More personally, this site is both a portfolio and a personal site where I can share my pictures, my travels or articles on some AI and Data Science topics I like (coming soon). Traveling is an integral part of my personal life and my school career, I spent 1 year in Slovenia with an internship and an exchange and now 1 year in Canada. And outside of that I have traveled to many countries: :fr: :slovenia: :canada: :it: :morocco: :hungary: :vietnam: :us: :reunion: :peru: :cambodia: :croatia: :gb: :es: :de: :czech_republic: :switzerland: :kr:
+
+To conclude on my person, I go by the latin adage : "<em>Mens sana in corpore sano</em> ". I run 🏃🏻, read 📔, lift weights 🏋🏻 and sometime yes, I sit in front of my computer 👨🏻‍💻. These activities help me keep clear ideas for my projects and my life ! Feel free to browse through the site, I have shared photos and projects from my journey.
+
 
 <div class="row">
 {% include about/skills.html title="Programming" source=site.data.programming-skills %}
