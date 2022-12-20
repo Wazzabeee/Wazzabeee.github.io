@@ -60,7 +60,7 @@ This first result satisfied and motivated us because it proved the potential of 
 
 ## Models Comparison
 
-{% include elements/figure.html image="../assets/img/portfolio/solar_panel/recep.png" caption="Models Comparison" %}
+{% include elements/figure.html image="../assets/img/portfolio/solar_panel/recep.PNG" caption="Models Comparison" %}
 
 From these initial results, we can infer several things. 
 First, as expected, the multiple linear regression model underperformed given its simplicity and the nonlinearity of the data. 
