@@ -1,0 +1,45 @@
+
+      
+    
+
+  {% for image in include.source %}
+
+  <div class="col-sm-6">
+      <div class="card">
+        <img class="card-img-top" src="{{ image.path }}">
+
+        {% if image.text %}
+
+        <div class="card-body">
+          <div class="card-text">{{ image.text }}</div>
+
+          {% if image.blockquote-text %}
+
+            <div class="blockquote-footer text-right"> {{ image.blockquote-text }}</div>
+
+          {% endif %}
+
+        </div>
+
+        {% endif %}
+
+        {% if image.footer_left %}
+
+          <div class="card-footer d-flex justify-content-between">
+             <div class="card-text text-muted"> {{ image.footer_left }}</div>
+
+             {% if image.footer_right %}
+
+              <div class="card-text text-muted"> {{ image.footer_right }}</div>
+
+             {% endif %}
+             
+          </div>
+
+        {% endif %}  
+
+      </div>
+  </div>
+
+  {% endfor %}
+
