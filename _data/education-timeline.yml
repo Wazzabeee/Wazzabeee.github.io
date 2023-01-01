@@ -9,10 +9,10 @@
     - Dual degree in the context of an agreement established with the UTBM.
     - Current CGPA 4,30/4,30.
   courses:
-    - "Advanced Data Structures and Algorithms (A+)"
-    - "Business Intelligence Principles and Methods (A+)"
     - "Machine Learning for Big Data (A+)"
     - "Artificial Intelligence (A+)"
+    - "Business Intelligence Principles and Methods (A+)"
+    - "Advanced Data Structures and Algorithms (A+)"
     - "Computer Vision and Image Processing ()"
     - "Deep Learning ()"
     - "Practical Workshop in Artificial Intelligence ()"
@@ -27,7 +27,7 @@
   to: February 2024
   description:
     - Specialization in IA and Data Science
-    - Last semester's GPA in Data Science 98/100.
+    - Last semester's GPA in Data Science 98/100 (Maximum grade is A).
   courses:
     - "Data Science (A)"
     - "Business Intelligence Big Data (A)"

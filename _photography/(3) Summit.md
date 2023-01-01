@@ -1,5 +1,5 @@
 ---
-name: Summit One Vanderbilt
+title: Summit One Vanderbilt
 tools: [iPhone 12📱]
 image: /assets/img/photography/summit/summit.jpeg
 description: New York - October 2022

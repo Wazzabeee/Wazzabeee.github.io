@@ -1,3 +1,24 @@
-- name: To be completed
+- name: Teamwork
   percentage: 80
   color: primary
+
+- name: Rigor
+  percentage: 80
+  color: danger
+
+- name: Dependability
+  percentage: 100
+  color: success
+
+- name: Work ethic
+  percentage: 100
+  color: info
+
+- name: Persuasive
+  percentage: 80
+  color: warning
+
+
+
+
+

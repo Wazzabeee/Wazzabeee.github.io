@@ -1,5 +1,5 @@
 ---
-name: Central Park
+title: Central Park
 tools: [iPhone 12📱]
 image: /assets/img/photography/central_park/central.jpg
 description: New York - October 2022

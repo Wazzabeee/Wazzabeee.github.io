@@ -1,5 +1,5 @@
 ---
-name: Metropolitan Museum of Art - Classical
+title: Metropolitan Museum of Art - Classical
 tools: [iPhone 12📱]
 image: /assets/img/photography/met/met.jpg
 description: New York - October 2022
@@ -10,7 +10,7 @@ description: New York - October 2022
  <div class="container-fluid">
  <div class="row">
 
-{% include photography/gallery.html source=site.data.met %}
+{% include photography/gallery.html title="Metropolitan Museum of Art" source=site.data.met %}
 
 </div>
 </div>
