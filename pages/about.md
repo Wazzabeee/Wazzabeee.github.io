@@ -14,7 +14,7 @@ By the way, as part of these two degrees that I am following, I am looking for a
 
 More personally, this site is both a portfolio and a personal site where I can share my pictures, my travels or articles on some AI and Data Science topics I like (coming soon). Traveling is an integral part of my personal life and my school curriculum, I spent 1 year in Slovenia with an internship and an exchange and now 1 year in Canada. And outside of that I have traveled to many countries: :fr: :slovenia: :canada: :it: :morocco: :hungary: :vietnam: :us: :reunion: :peru: :cambodia: :croatia: :gb: :es: :de: :czech_republic: :switzerland: :kr:
 
-To conclude on my person, I go by the latin adage : "<em>Mens sana in corpore sano</em> ". I run 🏃🏻, read 📔, lift weights 🏋🏻 and sometime yes, I sit in front of my computer 👨🏻‍💻. These activities help me keep clear ideas for my projects and my life ! Feel free to browse through the site, I have shared photos and projects from my journey.
+To conclude on my person, I live by the latin adage : "<em>Mens sana in corpore sano</em> ". I run 🏃🏻, read 📔, lift weights 🏋🏻 and sometime yes, I sit in front of my computer 👨🏻‍💻. These activities help me keep clear ideas for my projects and my life ! Feel free to browse through the site, I have shared photos and projects from my journey.
 
 
 <div class="row">
