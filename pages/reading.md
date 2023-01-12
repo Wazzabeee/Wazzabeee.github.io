@@ -18,6 +18,10 @@ For 2023 I challenged myself to read one book per week. In order to make this ch
 * [ ] Week of Feb 12 - *Paludes* by André Gide
 * [ ] Week of Feb 20 - *Demons* by Fyodor Dostoevsky
 * [ ] Week of Feb 27 - *The Crowd: A Study of the Popular Mind* by Gustave Le Bon
+* [ ] Week of Mar 6 - *The Diary of a Young Girl* by Anne Frank 
+* [ ] Week of Feb 13 - *Brave New World* by Aldous Huxley
+* [ ] Week of Feb 20 - ...
+* [ ] Week of Feb 27 - ...
 
 
 
