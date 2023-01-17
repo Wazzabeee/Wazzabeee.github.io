@@ -20,9 +20,9 @@ For 2023 I challenged myself to read one book per week. In order to make this ch
 * [ ] Week of Feb 27 - *The Crowd: A Study of the Popular Mind* by Gustave Le Bon
 * [ ] Week of Mar 6 - *The Diary of a Young Girl* by Anne Frank 
 * [ ] Week of Feb 13 - *Brave New World* by Aldous Huxley
-* [ ] Week of Feb 20 - ...
-* [ ] Week of Feb 27 - ...
-
-
-
-
+* [ ] Week of Feb 20 - *Lie and Fate* by Vasily Grossman
+* [ ] Week of Feb 27 - *Ninety-Three* by Victor Hugo
+* [ ] Week of Mar 6 - *The Compound Effect* by Darren Hardy
+* [ ] Week of Mar 13 - *Building a Second Brain* by Tiago Forte
+* [ ] Week of Mar 20 - *The Defining Decade* by Meg Jay
+* [ ] Week of Mar 27 - *Ninety-Three* by Victor Hugo
