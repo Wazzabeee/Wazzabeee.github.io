@@ -11,7 +11,7 @@ For 2023 I challenged myself to read one book per week. In order to make this ch
 
 * [x] Week of Jan 2 - *The Prince* by Machiavelli
 * [x] Week of Jan 9 - *Promise at Dawn* by Romain Gary
-* [ ] Week of Jan 16 - *The Myth of Sisyphus* by Albert Camus
+* [x] Week of Jan 16 - *The Myth of Sisyphus* by Albert Camus
 * [ ] Week of Jan 23 - *War* by Louis-Ferdinand Celine
 * [ ] Week of Jan 30 - *Animal Farm* by George Orwell
 * [ ] Week of Feb 6 - *Letter from an Unknown Woman* by Stefan Zweig
