@@ -16,21 +16,21 @@ For 2023 I challenged myself to read one book per week. In order to make this ch
 * [x] Week of Jan 30 - *Letter from an Unknown Woman* by Stefan Zweig
 * [x] Week of Feb 6 - *Cat's Cradle* by Kurt Vonnegut
 * [x] Week of Feb 13 - *The Gambler* by Fyodor Dostoevsky
-* [ ] Week of Feb 20 - *Lie and Fate* by Vasily Grossman
-* [ ] Week of Feb 27 - *Ninety-Three* by Victor Hugo
-* [ ] Week of Mar 6 - *The Compound Effect* by Darren Hardy
-* [ ] Week of Mar 13 - *Building a Second Brain* by Tiago Forte
+* [ ] Week of Feb 20 - *Paludes* by André Gide
+* [ ] Week of Feb 27 - *Fathers and Sons* by Ivan Turgenev
+* [ ] Week of Mar 6 -  *Mother* by Maxime Gorki
+* [ ] Week of Mar 13 - *Heart of a Dog* Mikhail Bulgakov
 * [ ] Week of Mar 20 - *The Defining Decade* by Meg Jay
 * [ ] Week of Mar 27 - *Ninety-Three* by Victor Hugo
 * [ ] Week of Apr 3 - *Demons* by Fyodor Dostoevsky
 * [ ] Week of Apr 10 - *Animal Farm* by George Orwell
-* [ ] Week of Apr 17 - *Paludes* by André Gide
+* [ ] Week of Apr 17 - *Lie and Fate* by Vasily Grossman
 * [ ] Week of Apr 24 - *The Crowd: A Study of the Popular Mind* by Gustave Le Bon
 * [ ] Week of May 1 - *The Diary of a Young Girl* by Anne Frank 
 * [ ] Week of May 8 - *Brave New World* by Aldous Huxley
-* [ ] Week of May 15 -
-* [ ] Week of May 22 - 
-* [ ] Week of May 29 -
+* [ ] Week of May 15 - *Ninety-Three* by Victor Hugo
+* [ ] Week of May 22 - *The Compound Effect* by Darren Hardy
+* [ ] Week of May 29 - *Building a Second Brain* by Tiago Forte
 * [ ] Week of June 5 - 
 * [ ] Week of June 12 - 
 * [ ] Week of June 19 - 
