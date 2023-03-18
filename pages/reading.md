@@ -7,7 +7,7 @@ weight: 8
 
 # Reading list 2023
 
-For 2023 I challenged myself to read one book per week. In order to make this challenge more concrete, I decided to make it public so that I am somehow obliged to succeed in this challenge. You can follow my reading notes and opinions on my [Instagram](https://www.instagram.com/clement_dltl/), I publish a story every sunday !
+For 2023 I challenged myself to read one book per week. In order to make this challenge more concrete, I decided to make it public so that I am somehow obliged to succeed in this challenge. You can follow my reading notes and opinions on my <a href="https://www.instagram.com/clement_dltl/" target="_blank">Instagram</a>, I publish a story every sunday !
 
 * [x] Week of Jan 2 - *The Prince* by Machiavelli
 * [x] Week of Jan 9 - *Promise at Dawn* by Romain Gary
