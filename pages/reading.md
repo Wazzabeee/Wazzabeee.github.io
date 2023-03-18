@@ -16,11 +16,11 @@ For 2023 I challenged myself to read one book per week. In order to make this ch
 * [x] Week of Jan 30 - *Letter from an Unknown Woman* by Stefan Zweig
 * [x] Week of Feb 6 - *Cat's Cradle* by Kurt Vonnegut
 * [x] Week of Feb 13 - *The Gambler* by Fyodor Dostoevsky
-* [ ] Week of Feb 20 - *Paludes* by André Gide
-* [ ] Week of Feb 27 - *Fathers and Sons* by Ivan Turgenev
-* [ ] Week of Mar 6 -  *Mother* by Maxime Gorki
-* [ ] Week of Mar 13 - *Heart of a Dog* Mikhail Bulgakov
-* [ ] Week of Mar 20 - *The Defining Decade* by Meg Jay
+* [x] Week of Feb 20 - *Paludes* by André Gide
+* [ ] Week of Feb 27 - 
+* [x] Week of Mar 6 -  *Heart of a Dog* Mikhail Bulgakov
+* [x] Week of Mar 13 - *Note sur la suppression générale des partis politiques* Simone Weil
+* [ ] Week of Mar 20 - *Fathers and Sons* by Ivan Turgenev
 * [ ] Week of Mar 27 - *Ninety-Three* by Victor Hugo
 * [ ] Week of Apr 3 - *Demons* by Fyodor Dostoevsky
 * [ ] Week of Apr 10 - *Animal Farm* by George Orwell
@@ -31,8 +31,8 @@ For 2023 I challenged myself to read one book per week. In order to make this ch
 * [ ] Week of May 15 - *Ninety-Three* by Victor Hugo
 * [ ] Week of May 22 - *The Compound Effect* by Darren Hardy
 * [ ] Week of May 29 - *Building a Second Brain* by Tiago Forte
-* [ ] Week of June 5 - 
-* [ ] Week of June 12 - 
+* [ ] Week of June 5 - *Mother* by Maxime Gorki 
+* [ ] Week of June 12 - *The Defining Decade* by Meg Jay
 * [ ] Week of June 19 - 
 * [ ] Week of June 26 - 
 * [ ] Week of July 3 - 
