@@ -16,7 +16,7 @@
     - "Computer Vision and Image Processing ()"
     - "Deep Learning ()"
     - "Practical Workshop in Artificial Intelligence ()"
-  tools: [Python, C++, Java, Tableau, PowerBI]
+  tools: [Python, C++, Java, PyTorch, TensorFlow, Tableau, PowerBI]
 
 - entity: UTBM
   link: https://www.utbm.fr/
@@ -46,7 +46,7 @@
   from: February 2020
   to: July 2020
   description:
-    - Study term abroad (6 months), mathematics and computer science
+    - Study term abroad (6 months), mathematics and computer science courses in English.
   tools: [Algebra, Calculus, English, HTML, CSS]
 
 - entity: Bernard Palissy
