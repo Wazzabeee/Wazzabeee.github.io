@@ -1,12 +1,14 @@
 ---
 name: Large-scale Twitter Sentiment Analysis
 tools: [Python, Spark, PySpark, Classification, Cluster, Google-Cloud, DataProc, Logistic-Regression, Naive-Bayes, Linear-SVM]
-image: ../assets/img/portfolio/twitter_sentiment/graphe.png
+image: ../assets/img/portfolio/twitter_sentiment/pipeline.PNG
 description: Large-scale sentiment analysis on Twitter with Pyspark
 ---
-# Large-scale Twitter Sentiment Analysis
+# Real-Time Sentiment Analysis with Kafka & Spark Streaming
 
-In this post, we will explore the different issues of Natural Language Processing, or NLP, through a sentiment analysis of tweets retrieved from the social network Twitter. We will work with Apache Spark to test different techniques and determine which ones are the most interesting. Throughout this assignment, we will put ourselves in a Big Data context, where we will be dealing with large volumes of data, proving once again the usefulness of Spark and its Python implementation, PySpark. 
+In this post, we will explore different aspects of Natural Language Processing, through a sentiment analysis of tweets retrieved from the social network Twitter. We will work with Apache Spark to test different techniques and determine which ones are the most interesting. Throughout this assignment, we will put ourselves in a Big Data context, where we will be dealing with large volumes of data, proving once again the usefulness of Spark and its Python implementation, PySpark.
+
+The second part of this project was to deploy the best model in an ETL process using Kafka and Spark Streaming for real-time analysis on a topic of our choice.
 
 It was made in collaboration with <a href="https://github.com/LargeWaffle" target="_blank" rel="noopener noreferrer">Thomas Sirvent</a> for a course on Machine Learning for Big Data at UQAC.
 
@@ -108,6 +110,10 @@ We defined a scaling factor of 1 per 233 MB for the size of the dataset and 1 pe
 
 {% include elements/figure.html image="../assets/img/portfolio/twitter_sentiment/scaling_table.PNG" %}
 {% include elements/figure.html image="../assets/img/portfolio/twitter_sentiment/chart.png" caption="Scaling of the classification" %}
+
+## ETL : Deploying the best model
+
+{% include elements/figure.html image="../assets/img/portfolio/twitter_sentiment/pipeline.PNG" %}
 
 
 ## Used Software and Libraries
