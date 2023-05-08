@@ -2,19 +2,20 @@
   link: https://www.uqac.ca/
   location: Chicoutimi, Canada
   country: canada
-  role: 🎓 Computer Science and Engineering Degree
+  role: 🎓 MSc in Computer Science
   from: September 2022
   to: February 2024
   description:
     - Dual degree in the context of an agreement established with the UTBM.
-    - Current CGPA 4,30/4,30.
+    - Specialization in Artificial Intelligence
+    - Current CGPA 4,20/4,30.
   courses:
     - "Machine Learning for Big Data (A+)"
     - "Artificial Intelligence (A+)"
     - "Business Intelligence Principles and Methods (A+)"
     - "Advanced Data Structures and Algorithms (A+)"
     - "Computer Vision and Image Processing (A+)"
-    - "Deep Learning ()"
+    - "Deep Learning (A)"
     - "Practical Workshop in Artificial Intelligence (A+)"
   tools: [Python, C++, Java, PyTorch, TensorFlow, Tableau, PowerBI]
 
@@ -22,11 +23,11 @@
   link: https://www.utbm.fr/
   location: Belfort, France
   country: fr
-  role: 🎓 Computer Science and Engineering Degree
+  role: 🎓 Computer Science Engineer
   from: September 2018
   to: February 2024
   description:
-    - Specialization in IA and Data Science
+    - Specialization in AI and Data Science
     - Last semester's GPA in Data Science 98/100 (Maximum grade is A).
   courses:
     - "Data Science (A)"
