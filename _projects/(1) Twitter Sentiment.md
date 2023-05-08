@@ -1,5 +1,5 @@
 ---
-name: Large-scale Twitter Sentiment Analysis
+name: Real-Time Sentiment Analysis with Kafka & Spark Streaming
 tools: [Python, Spark, PySpark, Classification, Cluster, Google-Cloud, DataProc, Logistic-Regression, Naive-Bayes, Linear-SVM]
 image: ../assets/img/portfolio/twitter_sentiment/pipeline.png
 description: Large-scale sentiment analysis on Twitter with Pyspark
@@ -12,7 +12,7 @@ The second part of this project was to deploy the best model in an ETL process u
 
 It was made in collaboration with <a href="https://github.com/LargeWaffle" target="_blank" rel="noopener noreferrer">Thomas Sirvent</a> for a course on Machine Learning for Big Data at UQAC.
 
-## Jeu de données : Sentiment140
+## Dataset : Sentiment140
 
 *Sentiment140* [1] is a well-known dataset when it comes to analyzing the sentiment of tweets. It was created by Alec Go, Richa Bhayani and Lei Huang, who were computer science students at Stanford University. Since then, it has been used in a number of scientific papers and thus serves as a benchmark for comparing the accuracy of models. 
 
@@ -111,10 +111,11 @@ We defined a scaling factor of 1 per 233 MB for the size of the dataset and 1 pe
 {% include elements/figure.html image="../assets/img/portfolio/twitter_sentiment/scaling_table.PNG" %}
 {% include elements/figure.html image="../assets/img/portfolio/twitter_sentiment/chart.png" caption="Scaling of the classification" %}
 
-## ETL :Deploying the best model
+## ETL : Deploying the best model
 
 {% include elements/figure.html image="../assets/img/portfolio/twitter_sentiment/pipeline.png" %}
 
+You can find more details about the implementation of this ETL process on my <a href="https://medium.com/towards-artificial-intelligence/real-time-sentiment-analysis-with-docker-kafka-and-spark-streaming-952c06549de1" target="_blank" rel="noopener noreferrer">blog</a>.
 
 ## Used Software and Libraries
 - Programming languages: Python
