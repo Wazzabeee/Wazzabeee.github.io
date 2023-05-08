@@ -1,7 +1,7 @@
 ---
 name: Large-scale Twitter Sentiment Analysis
 tools: [Python, Spark, PySpark, Classification, Cluster, Google-Cloud, DataProc, Logistic-Regression, Naive-Bayes, Linear-SVM]
-image: ../assets/img/portfolio/twitter_sentiment/pipeline.PNG
+image: ../assets/img/portfolio/twitter_sentiment/pipeline.png
 description: Large-scale sentiment analysis on Twitter with Pyspark
 ---
 # Real-Time Sentiment Analysis with Kafka & Spark Streaming
@@ -111,14 +111,14 @@ We defined a scaling factor of 1 per 233 MB for the size of the dataset and 1 pe
 {% include elements/figure.html image="../assets/img/portfolio/twitter_sentiment/scaling_table.PNG" %}
 {% include elements/figure.html image="../assets/img/portfolio/twitter_sentiment/chart.png" caption="Scaling of the classification" %}
 
-## ETL : Deploying the best model
+## ETL :Deploying the best model
 
-{% include elements/figure.html image="../assets/img/portfolio/twitter_sentiment/pipeline.PNG" %}
+{% include elements/figure.html image="../assets/img/portfolio/twitter_sentiment/pipeline.png" %}
 
 
 ## Used Software and Libraries
 - Programming languages: Python
-- Libraries: PySpark
+- Libraries: PySpark, Apache Kafka
 - Source control: GitHub
 - Other tools: Google Cloud, Jupyter Notebook, DataSpell
 
