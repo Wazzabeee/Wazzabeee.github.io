@@ -17,30 +17,30 @@ For 2023 I challenged myself to read one book per week. In order to make this ch
 * [x] Week of Feb 6 - *Cat's Cradle* by Kurt Vonnegut
 * [x] Week of Feb 13 - *The Gambler* by Fyodor Dostoevsky
 * [x] Week of Feb 20 - *Paludes* by André Gide
-* [ ] Week of Feb 27 - 
-* [x] Week of Mar 6 -  *Heart of a Dog* Mikhail Bulgakov
-* [x] Week of Mar 13 - *Note sur la suppression générale des partis politiques* Simone Weil
-* [ ] Week of Mar 20 - *Fathers and Sons* by Ivan Turgenev
-* [ ] Week of Mar 27 - *Ninety-Three* by Victor Hugo
-* [ ] Week of Apr 3 - *Demons* by Fyodor Dostoevsky
-* [ ] Week of Apr 10 - *Animal Farm* by George Orwell
-* [ ] Week of Apr 17 - *Lie and Fate* by Vasily Grossman
-* [ ] Week of Apr 24 - *The Crowd: A Study of the Popular Mind* by Gustave Le Bon
-* [ ] Week of May 1 - *The Diary of a Young Girl* by Anne Frank 
-* [ ] Week of May 8 - *Brave New World* by Aldous Huxley
-* [ ] Week of May 15 - *Ninety-Three* by Victor Hugo
+* [x] Week of Feb 27 - *Heart of a Dog* by Mikhail Bulgakov
+* [x] Week of Mar 6 -  *Note sur la suppression générale des partis politiques* by Simone Weil
+* [x] Week of Mar 13 - *Fathers and Sons* by Ivan Turgenev
+* [x] Week of Mar 20 - *Sapiens: A Brief History of Humankind* by Yuval Noah Harari
+* [x] Week of Mar 27 - *Le Poids Des Apparences: Amour, Gloire et Beauté* by Jean-François Amadieu
+* [x] Week of Apr 3 - *Novecento : Pianiste* by Alessandro Baricco
+* [ ] Week of Apr 10 - 
+* [ ] Week of Apr 17 - 
+* [ ] Week of Apr 24 - 
+* [ ] Week of May 1 - 
+* [ ] Week of May 8 - 
+* [ ] Week of May 15 - 
 * [ ] Week of May 22 - *The Compound Effect* by Darren Hardy
 * [ ] Week of May 29 - *Building a Second Brain* by Tiago Forte
 * [ ] Week of June 5 - *Mother* by Maxime Gorki 
 * [ ] Week of June 12 - *The Defining Decade* by Meg Jay
-* [ ] Week of June 19 - 
-* [ ] Week of June 26 - 
-* [ ] Week of July 3 - 
-* [ ] Week of July 10 - 
-* [ ] Week of July 17 - 
-* [ ] Week of July 24 - 
-* [ ] Week of July 31 - 
-* [ ] Week of Aug 7 - 
+* [ ] Week of June 19 - *Ninety-Three* by Victor Hugo
+* [ ] Week of June 26 - *Demons* by Fyodor Dostoevsky
+* [ ] Week of July 3 - *Brave New World* by Aldous Huxley
+* [ ] Week of July 10 - *The Diary of a Young Girl* by Anne Frank 
+* [ ] Week of July 17 - *The Crowd: A Study of the Popular Mind* by Gustave Le Bon
+* [ ] Week of July 24 - *Lie and Fate* by Vasily Grossman
+* [ ] Week of July 31 - *Animal Farm* by George Orwell
+* [ ] Week of Aug 7 - *Ninety-Three* by Victor Hugo
 * [ ] Week of Aug 14 - 
 * [ ] Week of Aug 21 - 
 * [ ] Week of Aug 28 - 
