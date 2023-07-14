@@ -5,7 +5,8 @@ image: ../assets/img/portfolio/bias_mitigation/bigscience_logo.png
 description: Evaluating scalability of bias mitigation techniques on large language models
 
 ---
-## About
+
+# Bias Mitigation in LLMs
 
 This project was conceived as part of the "Practical Workshop in Artificial Intelligence II" course at UQAC, in collaboration with [Martin Blanckaert](https://www.linkedin.com/in/martinblanckaert/), [Valentin Porchet](https://www.linkedin.com/in/valentin-porchet/), [Thomas Sirvent](https://www.linkedin.com/in/tsirvent/) and under the supervision of [Darine Ameyed](https://www.linkedin.com/in/darine-ameyed-a9526124/) and [Riadh Ben Chaabene](https://ca.linkedin.com/in/riadh-ben-chaabene).
 
