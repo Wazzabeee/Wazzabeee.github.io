@@ -1,3 +1,14 @@
+- entity : namR
+  link : https://namr.com/en/
+  location : Paris
+  country : fr
+  role : 👨‍💻 Data Scientist Intern
+  from : July 2023
+  to : Present
+  description : 
+    - End of study internship - Addressing climate issues with Data Science.
+  tools: [Data Science, ...]
+
 - entity : Medium
   link : https://medium.com/
   location : Home
