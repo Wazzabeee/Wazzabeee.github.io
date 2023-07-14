@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-I am currently working as a Data Scientist Intern in Paris :fr:, at <a href="https://namr.com/" target="_blank">namR</a> tackling climate issues with the help of Machine Learning and Data. I hold a Canadian :canada: M.Sc in Artificial Intelligence from the <a href="https://www.uqac.ca/" target="_blank">UQAC</a> as well as a French :fr: Computer Science Engineering Degree with a focus on Data Science and Artificial Intelligence from the <a href="https://www.utbm.fr/" target="_blank">UTBM</a>.
+I am currently working as a Data Scientist Intern in Paris :fr: at <a href="https://namr.com/" target="_blank">namR</a> tackling climate issues with the help of Machine Learning and Data. I hold a Canadian :canada: M.Sc in Artificial Intelligence from the <a href="https://www.uqac.ca/" target="_blank">UQAC</a> as well as a French :fr: Computer Science Engineering Degree with a focus on Data Science and Artificial Intelligence from the <a href="https://www.utbm.fr/" target="_blank">UTBM</a>.
 
 You can find my CV in French and in English in the <a href="https://clementdelteil.com/CV/" target="_blank">Resume</a> section of this website.
 
