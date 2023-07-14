@@ -8,9 +8,9 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-I am currently studying in Canada :canada:, at <a href="https://www.uqac.ca/" target="_blank">UQAC</a>, as part of a double-degree agreement with my engineering school in France :fr:, the <a href="https://www.utbm.fr/" target="_blank">UTBM</a>. I'm doing a master's degree in computer science where I specialize in Data Science and Artificial Intelligence. 
+I am currently working as a Data Scientist Intern in Paris :fr:, at <a href="https://namr.com/" target="_blank">namR</a> tackling climate issues with the help of Machine Learning and Data. I hold a Canadian :canada: M.Sc in Artificial Intelligence from the <a href="https://www.uqac.ca/" target="_blank">UQAC</a> as well as a French :fr: Computer Science Engineering Degree with a focus on Data Science and Artificial Intelligence from the <a href="https://www.utbm.fr/" target="_blank">UTBM</a>.
 
-By the way, as part of these two degrees that I am following, I am looking for a 6 months internship starting in August or September 2023. I'm open to any project related to Data Science and Machine Learning that could be a challenge 🦾! You can find my CV in French and in English in the <a href="https://clementdelteil.com/CV/" target="_blank">Resume</a> section of this website.
+You can find my CV in French and in English in the <a href="https://clementdelteil.com/CV/" target="_blank">Resume</a> section of this website.
 
 More personally, this site is both a portfolio and a personal site where I can share my <a href="https://clementdelteil.com/photography/" target="_blank">pictures</a>, my <a href="https://clementdelteil.com/reading/" target="_blank">readings</a> or <a href="https://clementdelteil.com/blog/" target="_blank">articles</a> on some AI and Data Science topics I like. Traveling is an integral part of my personal life and my school curriculum, I spent 1 year in Slovenia with an internship and an exchange semester and now 1 year in Canada. Outside of that I had the chance to travel to many countries: :fr: :slovenia: :canada: :it: :morocco: :hungary: :vietnam: :us: :reunion: :peru: :cambodia: :croatia: :gb: :es: :de: :czech_republic: :switzerland: :kr: :cuba: ...
 
