@@ -23,12 +23,12 @@ For 2023 I challenged myself to read one book per week. In order to make this ch
 * [x] Week of Mar 20 - *Sapiens: A Brief History of Humankind* by Yuval Noah Harari
 * [x] Week of Mar 27 - *Le Poids Des Apparences: Amour, Gloire et Beauté* by Jean-François Amadieu
 * [x] Week of Apr 3 - *Novecento : Pianiste* by Alessandro Baricco
-* [ ] Week of Apr 10 - 
-* [ ] Week of Apr 17 - 
-* [ ] Week of Apr 24 - 
-* [ ] Week of May 1 - 
-* [ ] Week of May 8 - 
-* [ ] Week of May 15 - 
+* [x] Week of Apr 10 - *Clair de femme* by Romain Gary
+* [x] Week of Apr 17 - *Antifragile: Things That Gain from Disorder* by Nassim Nicholas Taleb
+* [x] Week of Apr 24 - *To Build a Fire* by Jack London
+* [ ] Week of May 1 - *Le déclassement français - Elysée, Quai d'Orsay, DGSE : les secrets d'une guerre d'influence stratégique* by Christian Chesnot, Georges Malbrunot
+* [ ] Week of May 8 - *The Need for Roots: prelude towards a declaration of duties towards mankind* by Simone Weil
+* [ ] Week of May 15 - *Dirty Hands* by Jean-Paul Sartre
 * [ ] Week of May 22 - *The Compound Effect* by Darren Hardy
 * [ ] Week of May 29 - *Building a Second Brain* by Tiago Forte
 * [ ] Week of June 5 - *Mother* by Maxime Gorki 
@@ -41,8 +41,8 @@ For 2023 I challenged myself to read one book per week. In order to make this ch
 * [ ] Week of July 24 - *Lie and Fate* by Vasily Grossman
 * [ ] Week of July 31 - *Animal Farm* by George Orwell
 * [ ] Week of Aug 7 - *Ninety-Three* by Victor Hugo
-* [ ] Week of Aug 14 - 
-* [ ] Week of Aug 21 - 
+* [ ] Week of Aug 14 - *Never Split the Difference: Negotiating As If Your Life Depended On It* by Chris Voss, Tahl Raz
+* [ ] Week of Aug 21 - *Regards sur le monde actuel et autres essais* by Paul Valery
 * [ ] Week of Aug 28 - 
 * [ ] Week of Sep 4 - 
 * [ ] Week of Sep 11 - 
