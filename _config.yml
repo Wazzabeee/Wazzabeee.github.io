@@ -1,10 +1,9 @@
 ### Site Settings ###
 title               : Clément Delteil
 description         : >-
-                      <br>Hi there 👋, my name is <b>Clément Delteil</b>. I am a French computer science engineer with a focus on data science and artificial intelligence ⚡. 
-                      <br>I am currently in Canada until June 2023 to complete my <b>double degree</b> ☃️.<br>
-                      If you are interested in working with me or anything similar, then feel free to get in touch with me via any social network or e-mail 👀.<br>
-                      I'm currently looking for a <b>challenging</b> Data Science / AI internship position 🤙.
+                      <br>Hi there 👋, my name is <b>Clément Delteil</b>.
+                      <br>I have a French computer science engineering degree aswell as a Canadian M.Sc with a focus on data science and artificial intelligence ⚡.
+                      I'm currently located in Paris 🥖 where I work as a Data Scientist Intern for <b>namR</b> on climate issues.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 #repository          : Wazzabeee/Wazzabeee.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 #remote_theme        : YoussefRaafatNasry/portfolYOU
