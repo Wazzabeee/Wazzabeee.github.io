@@ -43,7 +43,7 @@ For 2023 I challenged myself to read one book per week. In order to make this ch
 * [ ] Week of Aug 7 - *Ninety-Three* by Victor Hugo
 * [ ] Week of Aug 14 - *Never Split the Difference: Negotiating As If Your Life Depended On It* by Chris Voss, Tahl Raz
 * [ ] Week of Aug 21 - *Regards sur le monde actuel et autres essais* by Paul Valery
-* [ ] Week of Aug 28 - 
+* [ ] Week of Aug 28 - *Notes from Underground* by Fyodor Dostoevsky
 * [ ] Week of Sep 4 - 
 * [ ] Week of Sep 11 - 
 * [ ] Week of Sep 18 - 
