@@ -1,5 +1,5 @@
 ---
-title: Reducing Bias in LLMs: Fine-Tuning for Fairer Language Models
+title: Reducing Bias in LLMs - Fine-Tuning for Fairer Language Models
 tags: [Large Language Models, Data Science, Literature Review, Machine Learning, Artificial Intelligence]
 style: border
 color: light
