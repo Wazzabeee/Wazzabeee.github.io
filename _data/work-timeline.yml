@@ -1,13 +1,21 @@
 - entity : namR
   link : https://namr.com/en/
-  location : Paris
+  location : Paris, France
   country : fr
-  role : 👨‍💻 Data Scientist Intern
+  role : 👨‍💻 Data Scientist
   from : July 2023
-  to : Present
+  to : January 2024
   description : 
     - End of study internship - Addressing climate issues with Data Science.
-  tools: [Data Science, ...]
+    - As part of a team of 7 people, development of Machine Learning models, R&D topics on noise detection in ML labels on subjects related to the green renovation of buildings and the ecological transition.
+  courses :
+    - Development of a method for filtering noisy labels from training datasets via Confident Learning, thus improving data quality and model performance.
+    - Development of a meta-model (LightGBM + KNN) to predict the type of France's 34 million buildings (Residential, Tertiary, Industrial, Agricultural).
+    - Work in agile mode and regular presentations of results to other Data Scientists and Data Engineers.
+    - Improved the internal repository by modifying the Gitlab CI through the addition of various linters and typing.
+    - Optimization of SQL queries on PostgreSQL to process millions of spatial data.
+    - Regular company-wide presentations on technical subjects (Confident Learning, LLM, etc.).
+  tools: [Data Science, Dataiku, PostgreSQL, Machine Learning, Data Analysis, R&D, Communication]
 
 - entity : Medium
   link : https://medium.com/
@@ -19,8 +27,10 @@
   description : 
     - Freelance - Writing technical articles for the Medium platform.
   courses : 
-    - Review of Scientific Papers, Data Scraping & Visualization, Deep Learning, Machine Learning, Natural Language Processing, etc.
-  tools: [Data Science, Writing, Data Analysis, Deep Learning, Apache Spark]
+    - Interested more than 35,000 readers by writing 18 articles on various Data Science topics, guided by my curiosity.
+    - Keynote Speaker at the Google Student Developer Club ML Summit; inspired over 80 participants by sharing my personal journey in Data Science and AI, motivating their active engagement and public contributions.
+    - Demonstrated to students the need for "quantization" of models with limited resources (i.e. standard GPUs) and a fine-tuning experiment for text and article summary generation.
+  tools: [Data Science, Communication, Large Language Models, Deep Learning, Natural Language Processing]
 
 - entity : UQAC
   link : https://www.uqac.ca/
