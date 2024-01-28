@@ -7,29 +7,29 @@
   to : January 2024
   description : 
     - End of study internship - Addressing climate issues with Data Science.
-    - As part of a team of 7 people, development of Machine Learning models, R&D topics on noise detection in ML labels on subjects related to the green renovation of buildings and the ecological transition.
+    - As part of a team of 7 people, developped of Machine Learning models, worked on R&D topics about noise detection in ML labels on subjects related to the green renovation of buildings and the ecological transition.
   courses :
     - Development of a method for filtering noisy labels from training datasets via Confident Learning, thus improving data quality and model performance.
     - Development of a meta-model (LightGBM + KNN) to predict the type of France's 34 million buildings (Residential, Tertiary, Industrial, Agricultural).
-    - Work in agile mode and regular presentations of results to other Data Scientists and Data Engineers.
+    - Worked in Agile mode and regularly presentated results to other Data Scientists and Data Engineers.
     - Improved the internal repository by modifying the Gitlab CI through the addition of various linters and typing.
     - Optimization of SQL queries on PostgreSQL to process millions of spatial data.
     - Regular company-wide presentations on technical subjects (Confident Learning, LLM, etc.).
-  tools: [Data Science, Dataiku, PostgreSQL, Machine Learning, Data Analysis, R&D, Communication]
+  tools: [Data Science, Dataiku, PostgreSQL, Machine Learning, Data Analysis, R&D, Communication, Large Language Models]
 
 - entity : Medium
   link : https://medium.com/
   location : Home
   country : fr
-  role : 📝 Writer
+  role : 📝 Technical Writer
   from : January 2023
   to : Present
   description : 
-    - Freelance - Writing technical articles for the Medium platform.
+    - Freelance - Writing technical articles on the Medium platform.
   courses : 
     - Interested more than 35,000 readers by writing 18 articles on various Data Science topics, guided by my curiosity.
-    - Keynote Speaker at the Google Student Developer Club ML Summit; inspired over 80 participants by sharing my personal journey in Data Science and AI, motivating their active engagement and public contributions.
-    - Demonstrated to students the need for "quantization" of models with limited resources (i.e. standard GPUs) and a fine-tuning experiment for text and article summary generation.
+    - <a href="https://www.linkedin.com/feed/update/urn:li:activity:7145336549625253888/" target="_blank"W><b>Keynote Speaker at the Google Student Developer Club ML Summit</b></a>; inspired over 80 participants by sharing my personal journey in Data Science and AI, motivating their active engagement and public contributions.
+    - Demonstrated to students the need for <b>Quantization</b> of models with limited resources (i.e. standard GPUs) and a fine-tuning experiment for text and article summary generation.
   tools: [Data Science, Communication, Large Language Models, Deep Learning, Natural Language Processing]
 
 - entity : UQAC
@@ -44,7 +44,7 @@
   courses : 
     - <a href="https://programmes.uqac.ca/8INF435" target="_blank"><b>Algorithmic</b></a> - Complexity analysis, recurrence, Djisktra, Divide and Conquer strategies, etc.
     - <a href="https://programmes.uqac.ca/8IAR403" target="_blank"><b>Machine Learning for Data Science</b></a> - Verification that the correct development steps of a machine learning project are followed.
-  tools : [Python, Scikit-Learn, TensorFlow, Precision, Rigor]
+  tools : [Python, Scikit-Learn, TensorFlow, Jupyter Notebook, Precision, Rigor]
 
 - entity: HICUP Laboratory
   link : https://hicup.famnit.upr.si/
@@ -62,7 +62,7 @@
     - <b>Data Scraping</b> - Developed a GUI/Cron tool to automatize the collection of tweets from Twitter under <a href="https://scholar.google.com/citations?user=JQ2puysAAAAJ&hl=en" target="_blank">Marko Tkalčič</a> supervision.
     - <b>Plagiarism Detection</b> - Developed a Python tool that detects plagiarism between several files and presents its results in a table. It shows side-by-side comparisons of texts where similar sentences between documents are highlighted.
     - <b>Conference</b> - Attended <a href="https://hci.si/hci-si-2021/" target="_blank">HCI SI 2021</a> conference (Psychophysiology, User Gullibility, Behavioral Authentification, Music Retrieval and Recommendation...)
-  tools: [Python, Research, OCR, NLP, Selenium, Tkinter]
+  tools: [Python, Research, OCR, NLP, Selenium, Tkinter, Scikit-Learn, BERT]
 
 - entity: UTBM
   link: https://www.utbm.fr/
