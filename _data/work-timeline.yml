@@ -7,11 +7,11 @@
   to : January 2024
   description : 
     - End of study internship - Addressing climate issues with Data Science.
-    - As part of a team of 7 people, developped of Machine Learning models, worked on R&D topics about noise detection in ML labels on subjects related to the green renovation of buildings and the ecological transition.
+    - As part of a team of 7 people, developed Machine Learning models, and worked on R&D topics about noise detection in ML labels on subjects related to the green renovation of buildings and the ecological transition.
   courses :
     - Development of a method for filtering noisy labels from training datasets via Confident Learning, thus improving data quality and model performance.
     - Development of a meta-model (LightGBM + KNN) to predict the type of France's 34 million buildings (Residential, Tertiary, Industrial, Agricultural).
-    - Worked in Agile mode and regularly presentated results to other Data Scientists and Data Engineers.
+    - Worked in Agile mode and regularly presented results to other Data Scientists and Data Engineers.
     - Improved the internal repository by modifying the Gitlab CI through the addition of various linters and typing.
     - Optimization of SQL queries on PostgreSQL to process millions of spatial data.
     - Regular company-wide presentations on technical subjects (Confident Learning, LLM, etc.).
