@@ -7,10 +7,11 @@ description: New York - October 2022
 <head>
 <title>Metropolitan Museum of Art</title>
 </head>
- <div class="container-fluid">
- <div class="row">
 
-{% include photography/gallery.html title="Metropolitan Museum of Art" source=site.data.met %}
-
-</div>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12 mx-auto">
+			{% include photography/carousel.html source=site.data.met %}
+        </div>
+    </div>
 </div>
