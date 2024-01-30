@@ -8,6 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
+
 I recently finished my end-of-study internship at <a href="https://namr.com/" target="_blank">namR</a> as a Data Scientist where I engineered a methodology to filter noisy labels from training sets, resulting in the improvement of data quality and model performance 📈. I've also developed a meta-model (LightGBM + KNN) to predict the use type of France's 34 million buildings 🏙️ from extremely unbalanced spatial data.
 
 **I'm now looking for a full time position in Paris as a Data Scientist / Machine Learning Engineer.**

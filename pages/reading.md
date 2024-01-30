@@ -7,7 +7,11 @@ weight: 8
 
 # Reading list 2023/24
 
-For 2023 I challenged myself to read one book per week. In order to make this challenge more concrete, I decided to make it public so that I am somehow obliged to succeed in this challenge. It turned out that reading one book a week forced me to prioritize smaller books over the ones I really wanted to read... So I dropped that idea and now share here only a list of recently read books. I always share stories about these books on <a href="https://www.instagram.com/clement_dltl/" target="_blank">Instagram</a>. You can contact me there to discuss common readings.
+For 2023 I challenged myself to read one book per week. In order to make this challenge more concrete, I decided to make it public so that I am somehow obliged to succeed in this challenge.
+
+It turned out that reading one book a week forced me to prioritize smaller books over the ones I really wanted to read... So I dropped that idea and now share here only a list of recently read books 📖.
+
+I always share stories about these books on <a href="https://www.instagram.com/clement_dltl/" target="_blank">Instagram</a>. You can contact me there to discuss common readings 📚.
 
 * [x] - *The Prince* by Machiavelli
 * [x] - *Promise at Dawn* by Romain Gary
