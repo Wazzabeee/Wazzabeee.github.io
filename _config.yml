@@ -2,9 +2,9 @@
 title               : Clément Delteil
 description         : >-
                       <br>Hi there 👋, my name is <b>Clément Delteil</b>.
-                      <br>I'm a Data Scientist & Machine Learning Engineer with French :fr: & Canadian :canada: degrees.
+                      <br>I'm a Machine Learning Engineer @<a href="https://wiremind.io/" target="_blank">Wiremind</a> with French :fr: & Canadian :canada: degrees.
                       <br>I share here my blog posts, projects and insights from my journey.
-                      <br>I'm currently located in Paris 🥖 where I'm looking for a full time position 📞.
+                      <br>I'm currently located in Paris 🥖.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 #repository          : Wazzabeee/Wazzabeee.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 #remote_theme        : YoussefRaafatNasry/portfolYOU
