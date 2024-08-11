@@ -1,3 +1,17 @@
+- entity : Wiremind
+  link : https://wiremind.io/
+  location : Paris, France
+  country : fr
+  role : 👨‍💻 Machine Learning Engineer
+  from : March 2024
+  to : Present
+  description :
+    - Wiremind provides advanced revenue management, capacity optimization, and inventory management solutions for the passenger transportation, air cargo, and entertainment industries.
+  courses :
+    - Development and deployment of machine learning models to optimize airline revenues.
+
+  tools: [Data Science, Machine Learning, Data Analysis, R&D, Communication]
+
 - entity : namR
   link : https://namr.com/en/
   location : Paris, France

@@ -11,7 +11,7 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
 
 I recently finished my end-of-study internship at <a href="https://namr.com/" target="_blank">namR</a> as a Data Scientist where I engineered a methodology to filter noisy labels from training sets, resulting in the improvement of data quality and model performance 📈. I've also developed a meta-model (LightGBM + KNN) to predict the use type of France's 34 million buildings 🏙️ from extremely unbalanced spatial data.
 
-**I'm now looking for a full time position in Paris as a Data Scientist / Machine Learning Engineer.**
+**I'm now working as a Machine Learning Engineeer at <a href="https://wiremind.io/" target="_blank">Wiremind</a> where I'm developing and deploying machine learning models to optimize airline revenues.**
 
 I hold a Canadian :canada: M.Sc in Artificial Intelligence from the <a href="https://www.uqac.ca/" target="_blank">UQAC</a> as well as a French :fr: Computer Science Engineering Degree with a focus on Data Science and Artificial Intelligence from the <a href="https://www.utbm.fr/" target="_blank">UTBM</a>.
 
